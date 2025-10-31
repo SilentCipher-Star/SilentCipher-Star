@@ -5,8 +5,9 @@
 <h1 align="center" style="color:#9B59B6;">🌑 In silence, I build — <i>SilentCipher</i></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=9B59B6&center=true&width=500&lines=💻+Computer+Engineering+Student;🧩+Curious+Mind+Exploring+Systems;🔐+Learning+Cybersecurity+Step+by+Step;🌒+Observing+Silently,+Building+Slowly" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=9B59B6&center=true&width=500&lines=💻+Decoding+Systems,+Crafting+Code;🧩+Curious+Mind+Exploring+Complex+Worlds;🔐+Learning+Cybersecurity+Step+by+Step;🌒+Observing+Silently,+Building+Strategically" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=6C3483&height=80&section=header" />
