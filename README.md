@@ -62,19 +62,17 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🖤 Contact Me
 
 <p align="center">
-  <a href="https://github.com/AnikaTahsin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AnikaTahsin-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/SilentCipher-Star" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SilentCipher--Star-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-your.email@example.com-6C3483?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-AnikaTahsin-512E5F?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:lookism6122@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-lookism6122@gmail.com-6C3483?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
