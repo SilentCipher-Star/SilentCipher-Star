@@ -18,7 +18,8 @@
 
 - 🎓 **Computer Engineering Student** at [Islamic University of Technology (IUT)](https://www.iutoic-dhaka.edu/)
 - 💻 Focused on **Cybersecurity**, **C/C++ Development**, and **Ethical Hacking**
-- 🔍 Exploring **CTFs**, **System Security**, and **Red Team Operations**
+<!--- 🔍 Exploring **CTFs**, **System Security**, and **Red Team Operations**-->
+- 💡 Actively participating in **bizz competitions** where I present **tech-driven, innovative ideas**
 - 🧠 Driven by curiosity, calm focus, and quiet improvement
 - 🖤 Love black aesthetics, spicy food, and working alone in silence
 
@@ -29,8 +30,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-2C3E50?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-512E5F?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-6C3483?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Python-6C3483?style=for-the-badge&logo=python&logoColor=white" />-->
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-5B2C6F?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
@@ -39,7 +39,7 @@
 
 ## 🧩 Currently Working On
 
-- ⚔️ Practicing **CTF challenges** and building a **red team skillset**  
+<!--- ⚔️ Practicing **CTF challenges** and building a **red team skillset**  -->
 - 💡 Strengthening my **DSA fundamentals** in C++  
 - 🔐 Learning **networking, encryption, and penetration testing basics**  
 - 🛠️ Working on **small C/C++ projects** to sharpen logic and design  
