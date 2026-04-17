@@ -25,14 +25,28 @@
 
 ---
 
-## ⚙️ Tools of the Trade
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-2C3E50?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-512E5F?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-5B2C6F?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+## 🐾 `[ SKILLS & STACK ]` 🐾
+
+<br>
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-%23371F76.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23371F76.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23371F76.svg?style=flat-square&logo=python&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%23371F76.svg?style=flat-square&logo=gitbook&logoColor=white)
+
+**Tools & Frameworks**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23121011.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23121011.svg?style=flat-square&logo=qt&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-%23121011.svg?style=flat-square&logo=raylib&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-%23121011.svg?style=flat-square&logo=microchip&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+
+</div>
 
 ---
 
