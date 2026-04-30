@@ -37,9 +37,13 @@
 ![C++](https://img.shields.io/badge/C++-%23371F76.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23371F76.svg?style=flat-square&logo=python&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-%23371F76.svg?style=flat-square&logo=gitbook&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-%2323371F76.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23371F76.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+<br>
 
 **Tools & Frameworks**
+
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23121011.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23121011.svg?style=flat-square&logo=qt&logoColor=white)
 ![Raylib](https://img.shields.io/badge/Raylib-%23121011.svg?style=flat-square&logo=raylib&logoColor=white)
