@@ -57,8 +57,8 @@
 ## 🌑 Current Focus
 
 - 🧠 Strengthening **DSA and logic** with C++  
-- 🌐 Exploring the **core of cybersecurity** and digital systems  
-- ⚙️ Working on **small but impactful C/C++ projects**  
+- 🌐 Exploring the **World of Games** and digital systems  
+- ⚙️ Working on **small but impactful C/C++/Java projects**  
 - 💭 Learning the art of **understanding systems in silence**
 
 ---
